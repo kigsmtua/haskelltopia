@@ -35,6 +35,7 @@ executables:
     - -with-rtsopts=-N
     dependencies:
     - to-do
+    - optparse-applicative
 
 tests:
   to-do-test:
