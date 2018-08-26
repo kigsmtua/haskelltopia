@@ -1,5 +1,5 @@
 # haskelltopia
-The road to  haskelltopia .. A bunch of simple programs and utilities I build along the way as I try to learn haskel
+The road to haskelltopia .. A bunch of haskell programs and utilities I build along the way as I try to learn haskell
 
 The following are the applications/scripts being developed
 
